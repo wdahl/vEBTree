@@ -12,7 +12,7 @@ java vEBTreeDriver
 The output of the code should be a plot with the times for both the insertions and successors calls over
 the samples.
 
-# Dependencies
+## Dependencies
 To plot the graph in java I used the PtPlot module. PtPlot is free, supported by the University of
 California, written in Java (and thus runs under Unix, Linux, Mac’s and MS Windows), and is easy to
 use for 2-D data plotting or histograms
